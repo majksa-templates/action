@@ -8,7 +8,7 @@
     "build": "bun build src/index.ts --outdir dist --sourcemap=external --minify --target node"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.5.3",
+    "@biomejs/biome": "^2.2.2",
     "@types/bun": "latest"
   },
   "peerDependencies": {
